@@ -1,0 +1,7 @@
+Productions:
+S->[A_0][P_1]|[A_0][B_0]
+[A_0]->a
+[B_0]->b
+[P_1]->[B_0]S
+String:
+abab
