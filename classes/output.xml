@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<grammar>
+<productions>
+		<production name="S">
+<variable>A_0</variable>
+<terminal>P_1</terminal>
+</production>
+		<production name="S">
+<variable>A_0</variable>
+<variable>B_0</variable>
+</production>
+	<production name="A_0">
+<terminal>a</terminal>
+</production>
+<production name="B_0">
+<terminal>b</terminal>
+</production>
+<production name="P_1">
+<variable>B_0</variable>
+<variable>S</variable>
+</production>
+</productions>
+</grammar>

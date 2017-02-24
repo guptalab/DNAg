@@ -1,0 +1,5 @@
+Productions:
+S->yS
+S->y
+String: 
+yyy

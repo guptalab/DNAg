@@ -1,0 +1,136 @@
+<head>
+  	<base href="file:///C:/Users/Pri/Desktop/UserManual/user_manual.html" />
+  	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  	<meta name="robots" content="index, follow" />
+  	<meta name="keywords" content="ide,free,mingw,windows,linux,wxwidgets,codeblocks,code blocks studio,codeblocks IDE,MinGW,cygwin,gnu,gcc,g++,open source,cross platform,c,c++, dev-cpp alternatives,dev-c++ alternatives,Visual Studio alternative, plugin,plugins,plugin framework,extensible,configurable,project management,  integrated,development,environment,debugger,code completion,auto-complete, wizards,multiple compilers,code::blocks" />
+	<meta name="description" content="Codeblocks is a cross-platform IDE built around wxWidgets, designed to be extensible and configurable. Runs on Windows and Linux." />
+  	<meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  	
+	<title>Credits</title>
+  	<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+	<link href="css/template_css.css" rel="stylesheet" type="text/css" />
+	<!--[if lte IE 6]>
+
+	<link href="css/template_ie.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+
+	<link rel="shortcut icon" href="http://www.codeblocks.org/images/favicon.ico" />
+
+</head>
+</head>
+
+<style>
+.center
+{
+margin:auto;
+width:70%;
+
+}
+</style>
+<style> 
+div#div2
+{
+transform:rotateX(120deg);
+-webkit-transform:rotateX(120deg); /* Safari and Chrome */
+}
+</style>
+
+<body id="page_bg">
+	<div id="wrapper">
+		<div id="header" style="">
+			<div class="rk-1" style="">
+				<div class="rk-2" style="padding:15px 20px; display:inline-block;">
+					<img src="dnag.png" style="width:130px; margin-left:10%;">
+					
+					<p style="font-size:1.5em; color:#333;margin-left:25%;margin-top:-80px;line-height:1.5em;text-align:center;width:700px;"><b><i>DNAg: A DNA Self Assembly Generator</b><br><span style="color:gray;"></span></i> </p>
+					
+				</div>
+							
+			</div>
+		</div>
+		<div id="horiz-menu">
+			
+					<ul class="menu"><li class="item1"><a href="dnag.html"><span>Home</span></a></li><li class="item20"><a href="user_manual.html"><span>User Manual</span></a></li><li id="current" class="active item23"><a href="demo.html"><span>Product Demo </span></a></li><li class="parent item2"><a href="abstract.html"><span>Abstract</span></a></li><li class="item24"><a href="downloads"><span>Download</span></a></li><li class="item17"><a href="credits.html"><span></span>Credits</a></li><li class="item22"><a href="Reference.html"><span>Referencial Study</span></a></li></ul>		</div>
+		<div id="mainbody">
+			<table class="mainbody" cellspacing="0" cellpadding="0" width="200px";>
+				<tr valign="top">
+					<td class="right">
+					<div class="padding">
+					<div class="moduletable">
+			<h3>Main</h3>
+					<ul class="menu"><li class="item1"><a href="user_manual.html"><span>Home</span></a></li><li class="item20"><a href="prod.html"><span>Production Rules</span></a></li><li id="current" class="active item23"><a href="codebook_gen.html"><span>Codebook</span></a></li><li class="parent item2"><a href="dfa.html"><span>DFA Generation</span></a></li><li class="item24"><a href="/cbplugins"><span>Referential Study</span></a></li><li class="item17"><a href="abstract.html"><span></span>Abstract</a></li><li class="item22"><a href="license.html"><span>About Us</span></a></li></ul>		</div>
+			<div class="moduletable">
+					
+					
+					
+			</div>
+										<td class="mainbody">
+						
+												<div class="padding">
+														        
+        <link rel="stylesheet" href="css/styles.css" type="text/css" media="screen" />
+				<script type="text/javascript" src="/media/system/js/mootools.js"></script>
+		<script type="text/javascript" src="/components/com_imagebrowser/lib/slimbox/js/slimbox.js"></script>
+        <link rel="stylesheet" href="css/slimbox.css" type="text/css" media="screen" />
+				
+            
+<p> <b><i>Abstract</i></b> <br>
+
+
+	<div id="wrapper">
+		<p> This project is about designing a suitable software that can be used as a tool for teaching purpose as well as to generate DNA Self Assembly structures and DNA sequences which could be further used for experimental purposes. DNA has extremely dense information storage and parallel computing power, this makes it a unique computational element to study.
+  	 The motivation to take up this topic came through the courses of ‘Natural Computing’, ‘Introduction to Coding Theory’ and ‘Models of Computation’. The topics such as  - ‘DNA Self Assembly’, ‘DNA Computation’, worked as an interlink between the three structure and developed an interest to continue with this project. Since a single Software to learn all the  concept was a something which would have helped us a lot, so we took is as an initiative to prepare one ourselves.
+This objective was to address both the issues of generating DNA Self Assembly using DNA
+Computation and creating a platform which answers to the doubts of a layman about this topic and understanding of the various concepts that lead to the results. The tool was aimed to
+extend a user friendly interface and at the same time provide with reliable results which could be used for experimental purposes. 
+The DNA Self Assembly Generator generates most stable structures of the DNA Self Assembly formed by particular set of grammar rules.  Self Assembly is a process in which components obtain the most stable structure possible. DNA Self Assembly we try to illustrate the interaction between strand at nano level to generate products which are stable in equilibrium and have minimum free energy. The tool DNAg- ’The DNA Self Assembly Generator’, begins its flow of working by checking the Grammar Rules satisfying the Languages (Context Free Language and Regular Language) and designing DNA code words to generate thermodynamic-ally stable DNA sequences that are then used to generate this computational model through the DNA Self Assembly.  Based on some simple concept of “Models of computation” we checked the input language and grammar. Further, to represent the Language we require stable DNA code words. So, our second task was to construct the stable Single strand DNA structure (sequence of nucleotides {A,C,G,T}. To do so our focus was to generate large set of DNA code words with certain combinatorial constraints like GC constraint, Hamming Distance, Reverse Hamming Distance and Thermodynamic stability. Those sets of code words are expected to give a stable structure thus not including any secondary structure formation.
+             The software works for regular grammar and could be extended for context free and context sensitive grammars. The codebook is generated for word lengths from 1 to 80 and could be extended further. 
+     This project was done under the guidance of Prof. Manish.K.Gupta.As a done in partial fulfillment of the requirements towards the award of Btech. (ICT) Degree -2013
+</p>
+		</div>
+                      
+
+	
+
+	
+
+        <br />
+        <a href="Javascript:history.go(-1)">[ Back ]</a>
+															</div>
+					</td>
+				</tr>
+			</table>
+		</div>
+		<div id="bottom">
+						<table class="usermodules" cellspacing="15">
+				<tr valign="top">
+										<td class="usermodules">
+								<div class="moduletable">
+					<h3>Software Availability</h3>
+					The Software DNAg can be downloaded from <a href="http://www.guptalab.org/DNAg">Download DNAg</a>. The referential Study can be accessed froom the Website <a href="Reference.html">Referential Study</a>		</div>
+						</td>
+															<td class="usermodules">
+								<div class="moduletable">
+					<h3>Feedback</h3>
+					Please enter your valuable feedback to help us improves the present Software,by clicking on the link : 
+					<a href="https://docs.google.com/forms/d/1YGu_I9z7Z56oAP1enGByBahqs-ItHbLqnBwCoJouOro/viewform"> Feedback</a>		</div>
+						</td>
+														</tr>
+			</table>
+				
+		</div>
+		<div id="footer" >
+			
+				<br>	
+				<div style="text-align:center">	<b>DNAg : A DNA Self Assembly Generator</b></div>
+				
+				<div id="div2" style="text-align:center"><b>DNAg : A DNA Self Assembly Generator</b></div>
+					
+				</div>
+		
+	</div>
+
+</body>
+</html>

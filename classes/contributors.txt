@@ -1,0 +1,178 @@
+
+<head>
+  	<base href="file:///C:/Users/Pri/Desktop/User%20Manual/study.html" />
+  	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  	<meta name="robots" content="index, follow" />
+  	<meta name="keywords" content="ide,free,mingw,windows,linux,wxwidgets,codeblocks,code blocks studio,codeblocks IDE,MinGW,cygwin,gnu,gcc,g++,open source,cross platform,c,c++, dev-cpp alternatives,dev-c++ alternatives,Visual Studio alternative, plugin,plugins,plugin framework,extensible,configurable,project management,  integrated,development,environment,debugger,code completion,auto-complete, wizards,multiple compilers,code::blocks" />
+	<meta name="description" content="Codeblocks is a cross-platform IDE built around wxWidgets, designed to be extensible and configurable. Runs on Windows and Linux." />
+  	<meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  	
+	<title>contributors</title>
+  	<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+	<link href="http://www.codeblocks.org/templates/rt_rokwebify/css/template_css.css" rel="stylesheet" type="text/css" />
+	<!--[if lte IE 6]>
+
+	<link href="http://www.codeblocks.org/templates/rt_rokwebify/css/template_ie.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+
+	<link rel="shortcut icon" href="http://www.codeblocks.org/images/favicon.ico" />
+
+</head>
+</head>
+<style>
+table, td, th
+{
+border:1px solid blue;
+}
+th
+{
+background-color:blue;
+color:white;
+}
+</style>
+<style>
+.center
+{
+margin:auto;
+width:70%;
+
+}
+</style>
+<style> 
+div#div2
+{
+transform:rotateX(120deg);
+-webkit-transform:rotateX(120deg); /* Safari and Chrome */
+}
+</style>
+
+<body id="page_bg">
+	<div id="wrapper">
+		<div id="header">
+			<div class="rk-1">
+				<div class="rk-2">
+					<a href="file:///C:/Users/Pri/Desktop/ref.html" ><img src="DNA1.jpg" border="0" alt="" id="dna" width=100% height=70%/></a>
+					<div id="top">
+						<div class="padding">
+							<p style="clear: right">DNAg: A DNA Self Assembly Generator </p>						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="horiz-menu">
+			<ul class="menu"><li class="item9"><a href="/home"><span>Home</span></a></li></ul>	
+		</div>
+		<div id="mainbody">
+			<table class="mainbody" cellspacing="0" cellpadding="0">
+				<tr valign="top">
+					<td class="right">
+					<div class="padding">
+					<div class="moduletable">
+			<h3>Main</h3>
+					<ul class="menu"><li class="item1"><a href="file:///C:/Users/Pri/Desktop/User%20Manual/study.html"><span>Home</span></a></li><li class="item20"><a href="/research_papers.html"><span>Research Papers</span></a></li><li id="current" class="active item23"><a href="/PT.html"><span>PPT</span></a></li><li class="parent item2"><a href="/contributors"><span>Major Contributors of This Field</span></a></li><li class="item24"><a href="file:///C:/Users/Pri/Desktop/User%20Manual/user_manual.html"><span>User Manual</span></a></li><li class="item17"><a href="/user-manual"><span></span></a></li><li class="item4"><a href="/license"><span>Licensing</span></a></li><li class="item22"><a href="/donations"><span>Donations</span></a></li></ul>		</div>
+			<div class="moduletable">
+					
+					
+					
+			</div>
+					</td>
+										<td class="mainbody">
+						
+												<div class="padding">
+														        
+        <link rel="stylesheet" href="/components/com_imagebrowser/styles.css" type="text/css" media="screen" />
+				<script type="text/javascript" src="/media/system/js/mootools.js"></script>
+		<script type="text/javascript" src="/components/com_imagebrowser/lib/slimbox/js/slimbox.js"></script>
+        <link rel="stylesheet" href="/components/com_imagebrowser/lib/slimbox/css/slimbox.css" type="text/css" media="screen" />
+				
+                <div class="componentheading" >
+			Major contributors to the Field        </div>
+                
+<table>
+<tr>
+<th>Firstname</th>
+<th>Lastname</th>
+<th>Savings</th>
+</tr>
+<tr>
+<td>Peter</td>
+<td>Griffin</td>
+<td>$100</td>
+</tr>
+<tr>
+<td>Lois</td>
+<td>Griffin</td>
+<td>$150</td>
+</tr>
+<tr>
+<td>Joe</td>
+<td>Swanson</td>
+<td>$300</td>
+</tr>
+<tr>
+<td>Cleveland</td>
+<td>Brown</td>
+<td>$250</td>
+</tr>
+</table>              
+  <table>
+		<tr>
+			<td><img src="leonard Adleman.jpg" width=80% height=80% align="center"></td>
+			<td><div id="wrapper"><a href="http://www.usc.edu/dept/molecular-science/fm-adleman.htm">Leonard Adleman Homepage</a><BR>
+	Computer Scientist<br></div>
+	Leonard Max Adleman is an American theoretical computer scientist and professor of computer science and molecular biology at the University of Southern California<br></td>
+		</tr>
+		<tr>
+			<div id="wrapper">First ever problem using DNA</div>
+			
+		</tr>
+		</table>
+                    
+		        
+
+	<div class="center">                 
+    		<br><BR>  <img src="self_assembly.png" width="500" height="450" > </div>      
+		
+                        
+        
+        <div style="clear:both;"></div>
+        <br />
+        <a href="Javascript:history.go(-1)">[ Back ]</a>
+															</div>
+					</td>
+				</tr>
+			</table>
+		</div>
+		<div id="bottom">
+						<table class="usermodules" cellspacing="15">
+				<tr valign="top">
+										<td class="usermodules">
+								<div class="moduletable">
+					<h3>Software Availability</h3>
+					The Software DNAg can be downloaded from <a href="http://www.guptalab.org/DNAg">Download DNAg</a>. The User Manual can be accessed froom the Website <a href="file:///C:/Users/Pri/Desktop/User%20Manual/user_manual.html">User Manual</a>		</div>
+						</td>
+															<td class="usermodules">
+								<div class="moduletable">
+					<h3>Feedback</h3>
+					Please enter your valuable feedback to help us improves the present Software,by clicking on the link : 
+					<a href="https://docs.google.com/forms/d/1YGu_I9z7Z56oAP1enGByBahqs-ItHbLqnBwCoJouOro/viewform"> Feedback</a>		</div>
+						</td>
+														</tr>
+			</table>
+				
+		</div>
+		<div id="footer" >
+			
+				<br>	
+				<div style="text-align:center">	<b>DNAg : A DNA Self Assembly Generator</b></div>
+				
+				<div id="div2" style="text-align:center"><b>DNAg : A DNA Self Assembly Generator</b></div>
+					
+				</div>
+		
+	</div>
+
+</body>
+</html>

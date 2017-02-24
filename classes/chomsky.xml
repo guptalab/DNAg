@@ -1,0 +1,13 @@
+<grammar>
+	<productions>
+		<production name="S">
+			<terminal>a</terminal>
+			<terminal>b</terminal>
+			<variable>S</variable>
+		</production>
+		<production name="S">
+			<terminal>a</terminal>
+			<terminal>b</terminal>
+		</production>
+	</productions>
+</grammar>
