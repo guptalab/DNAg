@@ -1,0 +1,11 @@
+J:\DNAg\src\AboutDNAg.java
+J:\DNAg\src\CfgToCnf.java
+J:\DNAg\src\copyright.java
+J:\DNAg\src\Cyk.java
+J:\DNAg\src\FormatConverter.java
+J:\DNAg\src\IgnoredRule.java
+J:\DNAg\src\Main.java
+J:\DNAg\src\output_jframe.java
+J:\DNAg\src\Permutation.java
+J:\DNAg\src\Rule.java
+J:\DNAg\src\XslTransform.java
